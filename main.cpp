@@ -1,8 +1,5 @@
-#include <cstdio>
-#include <cstring>
-#include <climits>
+#include <bits/stdc++.h>
 using namespace std;
-
 // =====================
 // CONSTANTES
 // =====================
